@@ -6,7 +6,7 @@ This repository contains a solution to a coding challenge that involves designin
 - Frontend Application (UI only): A web application built with React.js that includes user registration, login, logout, and a profile page where users can update and save their "About Me" section as either a draft or submit it.
 - Backend API: A Node.js server connected to a MySQL database to handle user registration and login. The backend allows users to register, login, and logout.
 
-##Features
+## Features
 
 ### Frontend Application
 User Registration: A registration form to create a new user.
