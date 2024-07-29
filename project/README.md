@@ -1,4 +1,4 @@
-Full-Stack Web Application
+# Full-Stack Web Application
 
 ## Description
 This repository contains a solution to a coding challenge that involves designing both a frontend web application and a backend API. The project is divided into two main parts:
