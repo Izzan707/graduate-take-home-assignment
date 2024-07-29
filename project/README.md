@@ -1,11 +1,15 @@
-### Tailwind 3.x React with Next.js and TypeScript
+# My Next.js Project
 
-- Built with **TypeScript**, **React**, **Tailwind CSS 3** framework & **Next.js**
-- **React Redux** state library &mdash; [Info](https://react-redux.js.org/)
-- **Dark mode**
-- **Styled** scrollbars
-- SPA with **Next.js**
-- **Production CSS** is only **&thickapprox;38kb**
+## Description
+
+This project is a Next.js application with a robust authentication system, profile management, and dynamic menu rendering. The application utilizes Formik for form management, hooks for state management, and various components to build a responsive and user-friendly interface.
+
+## Features
+
+- **User Authentication**: Secure user login and registration with JWT-based authentication.
+- **Profile Management**: Update user profile information, change passwords, and save drafts of the "About Me" section.
+- **Dynamic Menu Rendering**: Aside menu with dynamic rendering based on user actions, including logout functionality.
+- **Responsive Design**: Fully responsive UI for seamless user experience on all devices.
 
 ## Table of Contents
 
